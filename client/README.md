@@ -2,6 +2,18 @@
 
 > Client for insubuy code challenge
 
+This is my attempt at the Insubuy code challenge.
+
+It does have basic validation and the page is basically there but styling leaves something to be desired.
+
+I didn't have time to get to the second page.
+
+I was planning on sending the request over to Vuex for async to the server to return all the quotes, style and format that info and inject into a new page.
+
+Thanks for the opportunity.
+
+Robert Cooper
+
 ## Build Setup
 
 ``` bash
